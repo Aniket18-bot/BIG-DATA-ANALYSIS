@@ -45,3 +45,5 @@ The project includes **bar charts and line plots** generated using **Matplotlib*
 * Helpfulness vs rating
 * Most active reviewers
 * Reviews trend over time
+
+🔗[Dataset](https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews)
